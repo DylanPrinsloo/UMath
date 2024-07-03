@@ -10,6 +10,8 @@ This file will contain:
 - Orthogonality
 - Eigenvalues
 - Numerical linear Algebra and Canonical 
+- Graph Theory
+- Artifical Intelligence
 
 ### Mathematics 1A
 - Functions and models
@@ -17,9 +19,24 @@ This file will contain:
 - Deriviatives 
 - Application of Deriviatives
 - Optimization
+- Discrete and Continuous Variables
+- Functions and Relations
 
 ## Probability and Statistics (Still to be uploaded)
-- 
+- Probability spaces
+- Conditional Probability and Indepndance
+- Binomial, Poisson and Normal Distributions
+- Algorthims Analysis
+- ML models
 
 ## Discreate Mathematics (Still to be uploaded)
--
+- Propositional Logic
+- Predicate Logic
+- Proof Methods (Induction, Contradiction, etc.)
+- Basic Set Operations and theory
+- Permutations and Combinations
+- Pigeonhole Principle
+- Graph Theory
+- Algorithm Design Techniques
+- Big-O Notation
+- Complexity Classes (P, NP, etc.)
