@@ -28,10 +28,11 @@ _All folders with * are not needed or finished_
 │   └─── Trapezoidal rule 
 |
 |
-└─── Year 2 (Linear Algebra) (Awaiting)*
+└─── Year 2 (Linear Algebra)
 │   │
 │   │
 │   └─── Matrices and system equations
+│   └─── Elimination in Matrices 
 │   └─── Determinants
 │   └─── Vector spaces
 │   └─── Linear Transformations
@@ -39,6 +40,7 @@ _All folders with * are not needed or finished_
 │   └─── Eigenvalues
 │   └─── Numerical linear Algebra and Canonical 
 │   └─── Graph Theory
+│   └─── image processing and compression
 │   └─── Artificial Intelligence
 │   │
 │   │
