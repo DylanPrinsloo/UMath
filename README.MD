@@ -18,14 +18,14 @@ _All folders with * are not needed or finished_
 │   │
 │   │
 │   └─── Functions and models
-│   └─── Limits (trig limits and squeeze theorem to be uploaded)*
+│   └─── Limits (trig limits and squeeze theorem)
 │   └─── Application of Derivatives
 │   └─── Optimization, integrals (Riemann Sum)
 │   └─── Discrete and Continuous Variables
 │   └─── Functions and Relations
-│   └─── Newton's Method (to be uploaded)*
-│   └─── Hyperbolic Functions (to be uploaded)* 
-│   └─── Trapezoidal rule (to be uploaded)
+│   └─── Newton's Method 
+│   └─── Hyperbolic Functions
+│   └─── Trapezoidal rule 
 |
 |
 └─── Year 2 (Linear Algebra) (Awaiting)*
