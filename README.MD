@@ -1,7 +1,7 @@
 # University-Math
 
 This Repository was put together for the common goal of creating a collective Math repository. Some of the Math below was required for completing a 3-year 
-BSc in Computer Science at my University . The `folder` is still being updated every week. Content will still be missing and hence I have incorparated external work to keep content as updated as possible. Every subject will have a `Lessons` folder containing all the Math required for learining and a `Exercises` folder for the Exams or tests. 
+BSc in Computer Science at my University . The `folder` is still being updated every week. Content will still be missing and hence I have incorparated external work to keep content as updated as possible. Every subject will have a `Lessons` folder containing all the Math required for learning and a `Exercises` folder for the Exams or tests. 
 
 _All folders with * are not needed or finished_ 
 
