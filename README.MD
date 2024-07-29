@@ -13,6 +13,7 @@ _All folders with * are not needed or finished_
 ```
 | LICENSE
 | README.md
+| University linear compsci - project and applcation learning
 │
 └─── Year 1 (Calculus)
 │   │
