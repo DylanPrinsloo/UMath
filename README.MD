@@ -61,8 +61,8 @@ _All folders with * are not needed or finished_
 │   └─── Applications to Scientific Computing
 |
 |
-└─── Year 3 (Advanced Topics) (Still awaiting)
+└─── Year 3 (Advanced Topics) 
 │   │
-│   └─── (Not covered in the previous response)
+│   └─── (Still awaiting)
 
 ```
