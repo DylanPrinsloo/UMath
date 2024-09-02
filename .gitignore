@@ -1,0 +1,11 @@
+# Ignore icon files
+*.ico
+*.png
+*.svg
+*.jpg
+*.jpeg
+*.gif
+*.ini
+
+# Ignore specific icon directories
+/icons/
