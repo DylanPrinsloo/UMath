@@ -13,7 +13,6 @@ _All folders with * are not needed or finished_
 ### Base
 
 ```
-| LICENSE
 | README
 |
 | Algebra
