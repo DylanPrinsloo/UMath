@@ -36,8 +36,8 @@ _All folders with * are not needed or finished_
 |   |
 │   └─── Advanced Discrete Mathematics (Year 2)
 │       └─── Graph Theory (Graphs, Trees, Networks)
-│       └─── Number Theory (Prime Numbers, Divisibility, Modular Arithmetic)
-│       └─── Applications to Cryptography and Algorithms
+│       └─── Number Theory (Prime Numbers, Divisibility, Modular Arithmetic)*
+│       └─── Applications to Cryptography and Algorithms*
 │
 | Calculus
 |   |
@@ -61,11 +61,11 @@ _All folders with * are not needed or finished_
 │   └─── Hypothesis Testing and Confidence Intervals
 │   └─── Linear Regression and Correlation
 │
-| Numerical Methods (Year 2)
+| Numerical Methods (Year 2)*
 |   |
-│   └─── Numerical Analysis (Error Analysis, Numerical Stability)
-│   └─── Numerical Solutions (Linear/Nonlinear Equations, Integration)
-│   └─── Applications to Scientific Computing
+│   └─── Numerical Analysis (Error Analysis, Numerical Stability)*
+│   └─── Numerical Solutions (Linear/Nonlinear Equations, Integration)*
+│   └─── Applications to Scientific Computing*
 |   
 | Notes/extra
 │   
