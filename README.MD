@@ -35,8 +35,8 @@ Content will still be missing and therefore I have incorparated external work, e
 |   |
 │   └─── Advanced Discrete Mathematics (Year 2)
 │       └─── Graph Theory (Graphs, Trees, Networks)
-│       └─── Number Theory (Prime Numbers, Divisibility, Modular Arithmetic)*
-│       └─── Applications to Cryptography and Algorithms*
+│       └─── Number Theory (Prime Numbers, Divisibility, Modular Arithmetic)
+│       └─── Applications to Cryptography and Algorithms
 │
 | Calculus
 |   |
