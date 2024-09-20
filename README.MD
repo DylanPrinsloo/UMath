@@ -1,14 +1,13 @@
 # University-Math
 
 This Repository was put together for the common goal of creating a collective Math repository. Some of the Math below was required for completing a 3-year 
-BSc in Computer Science at my University . The `folder` is still being updated every week. Content will still be missing and hence I have incorparated external work to keep content as updated as possible. Every subject will have a `Content` in the topic folder containing all the Math required for learning and a `Problems` folder for the Exams or tests. 
+BSc in Computer Science at my University . Each `folder` is labelled by topic. See the below tree diagram to help navigate the repository.
 
-_All folders with * are not needed or finished_ 
+Content will still be missing and therefore I have incorparated external work, exams and tests. The  Math `Problems` folders will have Exams, tests or small problems to solve. Solutions are given too.
 
 [To See all University-Code](https://github.com/DylanPrinsloo/University-Code.git)
 
 ## **Folder Structure** <br><br>
-
 
 ### Base
 
@@ -61,11 +60,11 @@ _All folders with * are not needed or finished_
 │   └─── Hypothesis Testing and Confidence Intervals
 │   └─── Linear Regression and Correlation
 │
-| Numerical Methods (Year 2)*
+| Numerical Methods (Year 2)
 |   |
-│   └─── Numerical Analysis (Error Analysis, Numerical Stability)*
-│   └─── Numerical Solutions (Linear/Nonlinear Equations, Integration)*
-│   └─── Applications to Scientific Computing*
+│   └─── Numerical Analysis (Error Analysis, Numerical Stability)
+│   └─── Numerical Solutions (Linear/Nonlinear Equations, Integration)
+│   └─── Applications to Scientific Computing
 |   
 | Notes/extra
 │   
